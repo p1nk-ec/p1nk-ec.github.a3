@@ -1,0 +1,32 @@
+img{
+    width: 300px;
+    align-content: center;
+    filter: blur(3px);   
+    padding: 20px;
+}
+.cat2 img{
+    filter: contrast(.2);
+}
+.cat3 img{
+    filter: saturate(.6);
+}
+.cat4 img{
+    filter: brightness(1);
+}
+
+div{
+    width: 45%;
+    background-color: #60b84a;
+    border: 2px solid red;
+    padding: 10px 20px;
+    margin: 10px 5px 10px;
+    float:left;
+}
+h1{
+   text-align: center;
+}
+
+button{
+    text-align: center;
+}
+
